@@ -1,0 +1,28 @@
+.ContainerbigDate{
+    background: linear-gradient(180deg,rgb(219,75,46),#978a2c); 
+}
+.ContainerDate{
+    display: flex;
+     justify-content: center;
+     background: linear-gradient(180deg,rgb(219,75,46),#978a2c); 
+}
+.Back1{
+    float:right;
+    text-decoration: none;
+    color: white;
+    background: rgb(254,95,65);
+    padding: 7px 10px;
+    border-radius: 4px;  
+    font-size: 19px;
+    text-decoration: none;
+}
+.Next1{
+    float:left;
+    text-decoration: none;
+    color: white;
+    background: rgb(254,95,65);
+    padding: 7px 10px;
+    border-radius: 4px;  
+    font-size: 19px;
+    text-decoration: none;
+}

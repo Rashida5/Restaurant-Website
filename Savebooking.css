@@ -1,0 +1,24 @@
+.ContainerSave{
+    text-align: center;
+    background: white;
+    padding-top: 100px;
+    /* width:2000px; */
+    /* height:400px; */
+}
+.text-save{
+    color:#484850;
+    font-family: 'Acme', sans-serif;
+}
+.btn-save{
+    display: block;
+    border: solid white;
+    border-width: 0 10px;
+    border-radius: 0;
+    background: rgb(254,95,65);
+    color: white;
+    font-size: 18px;
+    margin: 50px auto 15px;
+    padding: 10px;
+    text-decoration: none;
+}
+/* -10 */
