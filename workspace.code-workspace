@@ -1,11 +1,10 @@
 {
 	"folders": [
 		{
-			"path": ".."
+			"path": "..\\..\\.."
 		},
 		{
-			"path": "..\\..\\GitHubforReact\\First-React-Project"
+			"path": "E:\\GameProject"
 		}
-	],
-	"settings": {}
+	]
 }

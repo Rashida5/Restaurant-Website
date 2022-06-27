@@ -1,0 +1,331 @@
+.numbers{
+    background-color:rgb(76,50,45);
+    padding:25px 0px;
+    max-width:100%;
+    height:auto;
+    text-align:center;
+    overflow:hidden;
+    margin-top: 0px;
+}
+.numbers .row{
+    margin:10px 0px;
+   /* background-color: rgb(247,250,251);*/
+}
+.numbers h2{
+    font-size:50px;
+    font-weight:bold;
+    margin:10px 0px;
+    color:white;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+.numbers h6{
+    text-transform: uppercase;
+    color:#fff;
+    font-family: 'Acme', sans-serif;
+    letter-spacing: 1px;
+}
+/*CSS to the pride section and ingredients*/
+.pride ,.ingredients{
+    background-color:transparent;
+    /* background-color: rgb(247,250,251); */
+    padding:25px 0px;
+    max-width:100%;
+    height:auto;
+    /* text-align:center; */
+    overflow:hidden;
+    margin-top: 60px;
+}
+.pride img,
+.ingredients img{
+    max-width:100%;
+    border-radius:10px;
+
+}
+.pride h2,
+.ingredients h2,
+.parale h2{
+    font-size:35px;
+    font-weight:bold;
+    width:80%;
+    margin:10px 0px;
+    color:#978a2c;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    line-height:50px;
+}
+.pride p,
+.ingredients p{
+    font-size:16px;
+    line-height: 20px;
+    color:rgb(76,50,45);
+    font-family: 'Oleo Script Swash Caps', cursive;
+    margin-top: 15px;
+}
+.pride button,
+.ingredients button{
+    background-color:#FE5F41;
+    border:1px solid;
+    box-sizing: border-box;
+    width:140px;
+    height:40px;
+    text-align:center;
+    font-family: 'Acme', sans-serif;
+    font-weight:bold; 
+    margin-top:20px;
+    transition: 0.2s;
+}
+.pride button a,
+.ingredients button a{
+    display:block;
+    color:white;
+    font-family: 'Acme', sans-serif;
+    font-weight:bold; 
+    text-decoration: none !important;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.pride button:hover ,
+.ingredients button:hover{
+    background-color:#fff;
+}
+ /*.ingredients{ 
+    margin-top:50px;
+    max-width: 100%;
+    height: auto;
+    text-align: left;
+    overflow:hidden;
+}*/
+/*.ingredients img{
+    max-width:100%;
+    border-radius:10px;
+    float :left;
+}*/
+/*.ingredients h2{
+    font-size:35px;
+    font-weight:bold;
+    width:80%;
+    margin:10px 0px;
+    color:#978a2c;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    line-height:50px;
+}*/
+/*.ingredients p{
+    font-size:16px;
+    line-height: 20px;
+    color:rgb(76,50,45);
+    font-family: 'Oleo Script Swash Caps', cursive;
+    margin-top: 15px;
+}*/
+/*.ingredients button{
+    background-color:#FE5F41;
+    border:1px solid;
+    box-sizing: border-box;
+    width:140px;
+    height:40px;
+    text-align:center;
+    font-family: 'Acme', sans-serif;
+    font-weight:bold; 
+    margin-top:20px;
+    transition: 0.2s;
+}*/
+/*.ingredients button a{
+    display:block;
+    color:white;
+    font-family: 'Acme', sans-serif;
+    font-weight:bold; 
+    text-decoration: none !important;
+    text-transform: uppercase;
+    font-weight: bold;
+}*/
+/*.ingredients button:hover {
+    background-color:#fff;
+}*/
+.ingredients ul li{
+    list-style-type: none;
+    font-family: 'Oleo Script Swash Caps';
+    color:rgb(76,50,45);
+    margin-top: 10px;
+}
+.ingredients ul{
+    padding:0px;
+}
+.parale{
+    /* background: url('./../../assets/bf1.jpg') center no-repeat; */
+    /* background: url("https://media.istockphoto.com/photos/cheese-plate-french-cheese-with-nuts-grape-berries-dried-fruits-and-picture-id1138373731?s=612x612") center no-repeat; */
+    background: url("https://thumbs.dreamstime.com/b/healthy-breakfast-background-muesli-fruits-berries-nuts-coffee-eggs-honey-oat-grains-other-white-flat-lay-top-view-184011519.jpg");
+    background-size:cover; 
+    width:120%;
+    height:auto;
+    padding: 30px 0px;
+    text-align: center;
+    background-position: center center;
+}
+.parale .row{
+    margin:50px 0px;
+}
+.parale h2{
+    width :100%;
+    margin :20px 0px;
+}
+.parale a{
+    color:  rgb(76,50,45);
+    font-size: 20px;
+    margin:20px 0px;
+    font-family:'Acme', sans-serif;
+    text-decoration: none !important;
+}
+.parale p{
+    margin: 20px 0px;
+    line-height: 32px;
+}
+.blogs {
+    margin-top:50px;
+    padding:50px;
+    overflow:hidden;
+width:100%;
+height:auto;
+}
+.blogs .row :first-child{
+    text-align:center;
+    margin:25px 0px;
+}
+.blogs h2{
+    font-size: 45px;
+    color:#978a2c;
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+.blogs p{
+    font-size: 25px;
+    color:#484850;
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+.blogs .box{
+    width:100%;
+    max-width:100%;
+    height:auto;
+    overflow: hidden;
+    border:1 px solid white; 
+    box-sizing: border-box;
+    margin-top: 10px;
+    border-radius: 5px;
+
+}
+.blogs .box img{
+    max-width: 100%;
+}
+.blogs .box h5{
+    color:  rgb(76,50,45);
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size:30px;
+    margin:10px 0px; 
+}
+.blogs .box span{
+    display: block;
+    color:#444;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size:16px;
+    margin:10px 0px; 
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.blogs .box h6{
+color:#973a2c;
+font-size:25px;
+font-family: 'Fira Sans Condensed', sans-serif;
+}
+.blogs  button{
+    background-color:#FE5F41;
+    border:1px solid;
+    box-sizing: border-box;
+    width:140px;
+    height:40px;
+    text-align:center; 
+    font-family: 'Acme', sans-serif;
+    font-size: 10px;
+    font-weight:bold; 
+    margin-top:20px;
+    transition: 0.2s;
+    margin:10px 0px;
+    box-sizing: border-box;
+    }
+    .blogs  button a{
+        display:block;
+        color:white;
+        font-family: 'Acme', sans-serif;
+        font-weight:bold; 
+        text-decoration: none !important;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    .blogs  button:hover{
+        background-color:#fff;
+    }
+    .sliderx{
+        background-color: #db4b2e;
+        border:1px solid #db4b2e;
+        width:100%;
+        max-width: 100%;
+        text-align: center;
+        padding: 50px 0px;
+    }
+    .sliderx img{
+        border-radius: 50% ;
+        width: 100px;
+        height: 100px ;
+        margin:20px 0px;
+        margin-bottom: 150px;
+    }
+    .sliderx .carousel-caption h3{
+        color:black;
+        font-size: 30px;
+        line-height:200px;
+        font-family: 'Acme', sans-serif;
+    
+     } 
+     .sliderx .carousel-caption p{
+        color:black;
+        font-size: 17px;
+        line-height:100px;
+    
+     } 
+     .sliderx .carousel-caption span{
+         color:white;
+         /* rgb(76,50,45); */
+         display: block;
+         margin:15px 0px;
+         text-transform: uppercase;
+         font-size: 17px;
+     }
+     .sliderx .carousel{
+      background-color: white;
+      margin:40px 0px;
+      border:1px solid   white;
+      box-sizing: border-box;
+      border-radius: 10px;
+      padding: 25px 0px;
+    }
+    .sliderx h2{
+        color:white;
+        font-family: 'Oleo Script Swash Caps', cursive;
+        font-size: 40px;
+    }
+   /* .sliderx .carousel-caption .carousel-indicators{
+        position: absolute;
+        right:0;
+        bottom:0;
+        left:0;
+        z-index:15;
+        display: flex;
+        justify-content: center;
+        padding-left: 0;
+        margin-left: 0;
+        margin-right: 15%;
+        margin-left: 15%;
+        list-style: none;
+        width:60px;
+        background-color: ;
+    }*/
+    .sliderx p{
+        color:rgb(77,49,44);
+        font-family: 'Oleo Script Swash Caps', cursive;
+        font-size: 40px;
+    }

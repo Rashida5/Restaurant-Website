@@ -1,0 +1,46 @@
+header{
+     /* background:url("../../assets/final.jpg") center no-repeat;  */
+     /* background: url("https://ibb.co/q5Rd4DH"); */
+     /* background: url("https://static.vecteezy.com/system/resources/previews/002/324/410/non_2x/top-view-winter-tomato-soup-bowl-with-notebook-photo.jpg") center no-repeat; */
+    background: url("https://img.freepik.com/free-photo/healthy-breakfast-eating-concept-various-morning-food-pancakes-waffles-croissant-oatmeal-sandwich-granola-with-yogurt-fruit-berries-coffee-tea-orange-juice-white-background_136595-2126.jpg?w=2000") center no-repeat;
+    /* background:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fstock-photo%2Fbowl-apricot-yogurt.html&psig=AOvVaw2eZBy6kNny8uWS70no6lu8&ust=1654181980989000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOjM_qLCjPgCFQAAAAAdAAAAABAE"); */
+    background-size:cover;
+    width:100%;
+    text-align:'left';
+    max-width: 100%;
+    height:auto;
+    overflow:hidden;
+    padding: 25px;
+    margin-top: 0px;
+}
+header .row{
+    margin:60px 0px;
+}
+header h2{
+color:rgb(77,49,44);
+font-size: 50px;
+line-height:60px;
+font-family: 'Oleo Script Swash Caps', cursive;
+}
+header p{
+    color:#484850;
+    font-size:30px;
+    font-weight: bold;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    margin:15px 0px;
+}
+header button{
+    width:140px;
+    height:40px;
+    background-color:#FE5F41;
+    border:1px solid #FE5F41;
+    box-sizing: border-box;
+    text-align:center;
+    color:white;
+    margin-right:10px;
+    margin-top:20px 10px 0px;
+     font-weight:bold; 
+    text-transform: uppercase ;
+    /* font-family: 'Oleo Script Swash Caps', cursive; */
+    font-family: 'Acme', sans-serif;
+}
